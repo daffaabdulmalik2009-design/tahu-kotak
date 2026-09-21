@@ -1,0 +1,6 @@
+{
+  "name": "Tahu Kotak",
+  "description": "Game kasual Tahu Kotak dengan mekanisme striking pin presisi, pelanggan unik, dan turnamen 3 ronde waktu 90 detik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
